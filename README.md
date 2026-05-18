@@ -181,6 +181,7 @@ data class Landmark(
 
 ## 🤝 Katkılar
 
+Hocam; Atıl Samancıoğlu'na teşekkürlerimi sunarım.
 Bu proje, öğrenme amacıyla Nuri tarafından açılmıştır.
 
 ## 📄 Lisans
